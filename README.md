@@ -1,5 +1,6 @@
 # Proyectazo_completo
 Fullstack Evaluacion 3
+
 CONTEXTO:
 El proyecto consiste en el desarrollo de una plataforma de gestión clínica basada en arquitectura de microservicios,
 orientada a administrar los procesos fundamentales de un centro de salud. 
